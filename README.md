@@ -8,8 +8,9 @@ This script is released under the MIT license. See the License file for more det
 ### CHANGE LOG
 |build|branch |  Change |
 |---|---|---|
-|0.0| Master| Initial release|
+|0.2| Master| errorhandling added|
 |0.1| Dev/0.1| errorhandling added|
+|0.0| Master| Initial release|
 
 ### How do I get set up?
 Download the repository to a folder. No setup needed.  
