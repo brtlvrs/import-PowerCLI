@@ -12,6 +12,7 @@
                          Min. PowerShell version : 2.0
                          PS Modules and version :
                             PowerCLI - 5.5
+    License            : MIT License
     Last Edit          : BL - 22-11-2016
 #>
 [CmdletBinding()]
